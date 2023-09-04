@@ -1,4 +1,4 @@
-# Web_scraping_Facebook_bot
+# Web_scraping_Facebook_automation_script
 An automation python script which will take images, titles and description from reddit and post it in Facebook post
 
 Web scraping popular posts from a subreddit
